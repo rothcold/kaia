@@ -17,6 +17,8 @@
 
 package secp256k1
 
+import "C"
+
 import (
 	"bytes"
 	"crypto/sha256"
